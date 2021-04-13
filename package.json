@@ -5,8 +5,8 @@
   "author": "Mateusz Derks <mateusz.derks@toptal.com>",
   "license": "MIT",
   "scripts": {
-    "test": "eslint --fix example.js",
-    "reset": "git co example.js"
+    "test": "eslint --fix example*.js",
+    "reset": "git co example*.js"
   },
   "dependencies": {
     "eslint": "^7.24.0",

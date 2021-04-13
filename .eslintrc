@@ -5,7 +5,6 @@
     "ecmaVersion": 2015
   },
   "rules": {
-    "semi": ["error", "never"],
     "import/no-duplicates": ["error"],
     "import/order": [
       "error",
